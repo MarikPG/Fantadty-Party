@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+header a {
+    background-color: white;
+    border: 1px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: green;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+#price {
+    color: yellow;
+    font-size: 30px;
+}
+
+#discount {
+    color:green;
+    font-size: 30px;
+}
+
+#wholesale {
+    color: red;
+    font-size: 30px;    
+}
+
+#about_us {
+    font-size: 30px;
+    color:yellowgreen;
+}
+
+footer p {
+    border: 10px solid green;
+}
+
+nav a {  
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 15px;
+    color: white
+}
+
+nav {
+    border: 1px solid green;
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.product {
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+main p {
+   font-size: 20px;
+}
+
+.img {
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+}
